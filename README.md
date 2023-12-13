@@ -7,4 +7,4 @@ Simulates a traffic intersection in C++
 - The simulation is done in the terminal, the return key is used to go to the next frame
 
 Image from simulation:
-![simimage](https://github.com/squireaa/squireaa/TrafficSimulator/trafficlight.png)
+![image](https://github.com/squireaa/TrafficSimulator/blob/main/trafficlight.PNG)
